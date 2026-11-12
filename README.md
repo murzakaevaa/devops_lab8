@@ -1,4 +1,4 @@
-# Lab 8. Docker Compose (П08)
+<img width="1018" height="732" alt="17-grafana-business-dashboard" src="https://github.com/user-attachments/assets/99fef01a-78dc-46d8-acc9-4f74c290c68a" /># Lab 8. Docker Compose (П08)
 
 ## Что было сделано
 1. Установлен Docker Compose v2 .
@@ -30,3 +30,4 @@
 | `14-grafana-metric-raw.png` | Список метрик в Grafana в режиме Raw |
 | `15-git-push-final.png` | Подготовка файлов и финальный `git push` |
 | `16-git-pull-push.png` | Объединение репозиториев  и `git push` |
+| `17-grafana-business-dashboard.png` | График бизнес-метрики (посещения сайта) в Grafana |
