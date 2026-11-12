@@ -1,4 +1,4 @@
-<img width="1018" height="732" alt="17-grafana-business-dashboard" src="https://github.com/user-attachments/assets/99fef01a-78dc-46d8-acc9-4f74c290c68a" /># Lab 8. Docker Compose (П08)
+# Lab 8. Docker Compose (П08)
 
 ## Что было сделано
 1. Установлен Docker Compose v2 .
